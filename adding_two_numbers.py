@@ -1,4 +1,7 @@
 def sum(num1: int, num2: int) -> int:
+    """
+        Функция сложения двух целых чисел
+    """
     return num1 + num2
 
 
